@@ -64,7 +64,7 @@ int main() {
     }
 
     outputFile << "Frequency dictionary:" << endl;
-    for (const auto& pair : wordFrequency) {
+    for (auto pair : wordFrequency) {
         outputFile << pair.first << ": " << pair.second << endl;
     }
 
