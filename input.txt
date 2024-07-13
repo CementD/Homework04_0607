@@ -1,0 +1,2 @@
+This is a test. This test is only a test.
+Testing the frequency of each word in this test text.

@@ -1,0 +1,15 @@
+Frequency dictionary:
+a: 2
+each: 1
+frequency: 1
+in: 1
+is: 2
+of: 1
+only: 1
+test: 4
+testing: 1
+text: 1
+the: 1
+this: 3
+word: 1
+Most frequent word: test (4 times)
